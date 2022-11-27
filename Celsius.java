@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Exercise1 {
+public class Celsius {
 
     public static void main(String[] Strings) {
 
